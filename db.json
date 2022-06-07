@@ -1,8 +1,21 @@
-{
+[{
   "workplaceTemplate": "GENERIC",
   "workplaceHost": "fake_data",
   "globalMachineIdentifier": "fake_data",
   "globalMachineType": "fake_data",
-  "machineDescription": "fake_data",
-  "changed" : "changeD"
+  "machineDescription": "fake_data"
+},
+ {
+  "workplaceTemplate": "GENERIC1",
+  "workplaceHost": "fake_data1",
+  "globalMachineIdentifier": "fake_data1",
+  "globalMachineType": "fake_data1",
+  "machineDescription": "fake_data1"
+},{
+  "workplaceTemplate": "GENERIC2",
+  "workplaceHost": "fake_data2",
+  "globalMachineIdentifier": "fake_data2",
+  "globalMachineType": "fake_data2",
+  "machineDescription": "fake_data2"
 }
+]
