@@ -1,4 +1,6 @@
-[{
+{ 
+  "items":[
+  {
   "workplaceTemplate": "GENERIC",
   "workplaceHost": "fake_data",
   "globalMachineIdentifier": "fake_data",
@@ -10,4 +12,6 @@
   "globalMachineIdentifier": "fake_data1",
   "globalMachineType": "fake_data1",
   "machineDescription": "fake_data1"
-}]
+    }
+  ]
+}
