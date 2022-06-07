@@ -1,17 +1,17 @@
 { 
   "items":[
   {
-  "workplaceTemplate": "GENERIC",
-  "workplaceHost": "fake_data",
-  "globalMachineIdentifier": "fake_data",
-  "globalMachineType": "fake_data",
-  "machineDescription": "fake_data"
+  "workplaceTemplate": "VISULENS",
+  "workplaceHost": "192.168.178.10",
+  "globalMachineIdentifier": "Visulens 1",
+  "globalMachineType": "xyz",
+  "machineDescription": "14214234"
 }, {
-  "workplaceTemplate": "GENERIC1",
-  "workplaceHost": "fake_data1",
-  "globalMachineIdentifier": "fake_data1",
-  "globalMachineType": "fake_data1",
-  "machineDescription": "fake_data1"
+  "workplaceTemplate": "OINSPECT",
+  "workplaceHost": "192.168.174.16",
+  "globalMachineIdentifier": "Visulens 2",
+  "globalMachineType": "abc",
+  "machineDescription": "14214263"
     }
   ]
 }
