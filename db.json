@@ -1,42 +1,49 @@
 { 
   "items":[
   {
+   "id": "1",
   "workplaceTemplate": "VISULENS",
   "workplaceHost": "192.168.178.10",
   "globalMachineIdentifier": "Visulens 1",
   "globalMachineType": "xyz",
   "machineDescription": "14214234"
 }, {
+   "id": "2",
   "workplaceTemplate": "OINSPECT",
   "workplaceHost": "192.168.174.16",
   "globalMachineIdentifier": "Visulens 2",
   "globalMachineType": "abc",
   "machineDescription": "14214263"
     }, {
+   "id": "3",   
   "workplaceTemplate": "TEST",
   "workplaceHost": "192.168.172.32",
   "globalMachineIdentifier": "Visulens 212",
   "globalMachineType": "abcdwa",
   "machineDescription": "423314"
     }, {
+  "id": "4",
   "workplaceTemplate": "JQSINSPECT",
   "workplaceHost": "192.168.194.16",
   "globalMachineIdentifier": "Visulens 423",
   "globalMachineType": "yyyc",
   "machineDescription": "142214263"
     }, {
+   "id": "5",
   "workplaceTemplate": "OINSPECT123",
   "workplaceHost": "192.183.174.16",
   "globalMachineIdentifier": "Visulens 982",
   "globalMachineType": "uujad",
   "machineDescription": "142163633"
     }, {
+   "id": "6",
   "workplaceTemplate": "HOTINSPECT",
   "workplaceHost": "192.168.174.19",
   "globalMachineIdentifier": "Vis 2",
   "globalMachineType": "wowowo",
   "machineDescription": "145224263"
     }, {
+   "id": "7",
   "workplaceTemplate": "WOINSPECT",
   "workplaceHost": "192.128.174.16",
   "globalMachineIdentifier": "Visss 2",
