@@ -31,71 +31,7 @@
                     }
                 ]
             },
-            {
-                "id": 124,
-                "title": "Kale & Avocado Salad with Blueberries & Edamame",
-                "timeToPrepare": "40 minutes",
-                "portions": 3,
-                "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2020%2F03%2F05%2F7784889.jpg",
-                "categories": [
-                    5
-                ],
-                "ingredients": [
-                    "6 cups stemmed and coarsely chopped curly kale",
-                    "1 avocado, diced",
-                    "¼ cup sliced almonds, toasted (see Tip)",
-                    "¼ cup olive oil",
-                    "3 tablespoons lemon juice",
-                    "½ cup crumbled goat cheese (2 ounces)"
-                ],
-                "preparationMethod": [
-                    {
-                        "step": 1,
-                        "text": "Place kale in a large bowl and, using your hands, massage to soften the leaves. Add avocado, blueberries, tomatoes, edamame, almonds, and goat cheese."
-                    },
-                    {
-                        "step": 2,
-                        "text": "Combine oil, lemon juice, chives, honey, mustard, and salt in a small bowl or in a jar with a tight-fitting lid. Whisk or shake well."
-                    },
-                    {
-                        "step": 3,
-                        "text": "Drizzle the vinaigrette over the salad and toss to combine."
-                    },
-                    {
-                        "step": 4,
-                        "text": "To make ahead: Wash, stem, and chop kale, cook edamame, toast almonds, and make vinaigrette (Step 2) up to 1 day ahead and refrigerate. Tip: To toast sliced (or chopped) nuts, place in a small dry skillet and cook over medium-low heat, stirring constantly, until fragrant, 2 to 4 minutes."
-                    }
-                ]
-            },
-            {
-                "id": 143,
-                "title": "Creamy Spinach Pasta",
-                "timeToPrepare": "60 minutes",
-                "portions": 6,
-                "imageUrl": "https://static01.nyt.com/images/2019/11/25/dining/ch-creamed-spinach-pasta/ch-creamed-spinach-pasta-articleLarge.jpg",
-                "categories": [
-                    3
-                ],
-                "ingredients": [
-                    "12 ounces uncooked tube-shaped chickpea pasta (about 3 1/2 cups) (such as Banza)",
-                    "1 clove garlic, thinly sliced (about 1 tsp.)",
-                    "2 tablespoons thinly sliced shallots",
-                    "3 ¼ ounces mascarpone cheese",
-                    "4 ounces fresh baby spinach",
-                    "1 teaspoon kosher salt",
-                    "1 teaspoon lemon zest (from 1 lemon)"
-                ],
-                "preparationMethod": [
-                    {
-                        "step": 1,
-                        "text": "Cook pasta according to package directions, omitting salt. Drain, reserving 1 cup cooking water."
-                    },
-                    {
-                        "step": 2,
-                        "text": "Transfer pasta to a large bowl; add garlic, shallot, mascarpone, spinach, salt, pepper, and 1/2 cup of the reserved cooking liquid. Stir until cheese has melted and mixture is combined, about 1 1/2 minutes. Add additional cooking liquid as needed to loosen sauce. Divide pasta among 4 bowls. Sprinkle with lemon zest and, if desired, crushed red pepper. Serve immediately."
-                    }
-                ]
-            },
+            
             {
                 "id": 156,
                 "title": "Garlic-Anchovy Pasta with Broccolini",
@@ -130,71 +66,8 @@
                     }
                 ]
             },
-            {
-                "id": 2156,
-                "title": "Salmon & Avocado Poke Bowl",
-                "timeToPrepare": "1 hour",
-                "portions": 6,
-                "imageUrl": "https://partners.winemag.com/wp-content/uploads/2017/06/photo-recipe-rose1.jpg",
-                "categories": [
-                    3
-                ],
-                "ingredients": [
-                    "1 pound previously frozen wild salmon, skinned and cut into 3/4-inch cubes",
-                    "1 medium ripe avocado, diced",
-                    "½ cup thinly sliced yellow onion",
-                    "Pinch of crushed red pepper",
-                    "¼ cup tobiko (flying fish roe) or other caviar",
-                    "2 teaspoons toasted (dark) sesame oil",
-                    "1 medium ripe avocado, diced"
-                ],
-                "preparationMethod": [
-                    {
-                        "step": 1,
-                        "text": "Gently combine salmon, avocado, onion, scallion greens, cilantro, tobiko (or caviar), tamari, sesame oil and Sriracha in a medium bowl."
-                    },
-                    {
-                        "step": 2,
-                        "text": "Combine rice and greens in a large bowl. Whisk vinegar, oil and mustard in a small bowl. Add to the rice salad and mix well. Serve the poke on the rice salad."
-                    }
-                ]
-            },
-            {
-                "id": 1256,
-                "title": "Crispy Fish Taco Bowls",
-                "timeToPrepare": "55 minutes",
-                "portions": 6,
-                "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2020%2F08%2F06%2Fcrispy-fish-taco-bowls-1.jpeg&q=60",
-                "categories": [
-                    3
-                ],
-                "ingredients": [
-                    "1 pound white fish, such as cod, cut into 2-inch pieces",
-                    "½ cup mayonnaise, divided",
-                    "¾ cup panko breadcrumbs",
-                    "¼ cup sour cream",
-                    "2 tablespoons adobo sauce from chipotle peppers",
-                    "2 tablespoons lime juice"
-                ],
-                "preparationMethod": [
-                    {
-                        "step": 1,
-                        "text": "Preheat oven to 475 degrees F. Place a wire rack on a rimmed baking sheet; coat with cooking spray."
-                    },
-                    {
-                        "step": 2,
-                        "text": "Coat fish with 1/4 cup mayonnaise. Place panko in a shallow dish and roll the fish in it. Transfer to the rack on the pan. Bake the fish until crispy and cooked through, 8 to 12 minutes, depending on thickness."
-                    },
-                    {
-                        "step": 3,
-                        "text": "Meanwhile, mix the remaining 1/4 cup mayonnaise, sour cream, adobo sauce, lime juice and pinch of salt in a small bowl."
-                    },
-                    {
-                        "step": 4,
-                        "text": "Sprinkle the fish with the remaining 1/4 teaspoon salt and pepper. Divide rice among 4 bowls and top with the fish, cabbage, radishes, the sauce and cilantro, if desired."
-                    }
-                ]
-            },
+            
+            
             {
                 "id": 1536,
                 "title": "Quinoa, Avocado & Chickpea Salad over Mixed Greens",
@@ -229,7 +102,7 @@
                 ]
             },
             {
-                "id": 156,
+                "id": 157,
                 "title": "One-Pot Lemon-Broccoli Pasta with Parmesan",
                 "timeToPrepare": "45 minutes",
                 "portions": 6,
@@ -283,69 +156,6 @@
                 "category": "powder"
             },
             {
-                "name": "coriander",
-                "displayName": "coriander",
-                "categoryId": 4,
-                "id": "5",
-                "category": "spices"
-            },
-            {
-                "name": "pepper",
-                "displayName": "pepper",
-                "categoryId": 2,
-                "id": "6",
-                "category": "spices"
-            },
-            {
-                "name": "lime",
-                "displayName": "lime",
-                "categoryId": 5,
-                "id": "7",
-                "category": "vegetables"
-            },
-            {
-                "name": "cilantro",
-                "displayName": "cilantro",
-                "categoryId": 6,
-                "id": "8",
-                "category": "sauces"
-            },
-            {
-                "name": "salsa",
-                "displayName": "salsa",
-                "categoryId": 7,
-                "id": "9",
-                "category": "sauces"
-            },
-            {
-                "name": "kale",
-                "displayName": "kale",
-                "categoryId": 3,
-                "id": "10",
-                "category": "beans"
-            },
-            {
-                "name": "avocado",
-                "displayName": "avocado",
-                "categoryId": 8,
-                "id": "11",
-                "category": "vegetables"
-            },
-            {
-                "name": "almonds",
-                "displayName": "almonds",
-                "categoryId": 1,
-                "id": "12",
-                "category": "nuts"
-            },
-            {
-                "name": "olive oil",
-                "displayName": "olive oil",
-                "categoryId": 2,
-                "id": "13",
-                "category": "oil"
-            },
-            {
                 "name": "goat cheese",
                 "displayName": "goat cheese",
                 "categoryId": 6,
@@ -388,46 +198,11 @@
                 "category": "Млечни"
             },
             {
-                "name": "kosher salt",
-                "displayName": "kosher salt",
-                "categoryId": 1,
-                "id": "20",
-                "category": "spices"
-            },
-            {
-                "name": "red pepper",
-                "displayName": "red pepper",
-                "categoryId": 10,
-                "id": "21",
-                "category": "vegetables"
-            },
-            {
                 "name": "pasta",
                 "displayName": "pasta",
                 "categoryId": 5,
                 "id": "22",
                 "category": "pasta"
-            },
-            {
-                "name": "salmon",
-                "displayName": "salmon",
-                "categoryId": 1,
-                "id": "23",
-                "category": "fish"
-            },
-            {
-                "name": "sesame oil",
-                "displayName": "sesame oil",
-                "categoryId": 2,
-                "id": "24",
-                "category": "oil"
-            },
-            {
-                "name": "cod",
-                "displayName": "cod",
-                "categoryId": 1,
-                "id": "25",
-                "category": "fish"
             },
             {
                 "name": "mayonnaise",
